@@ -1,0 +1,10 @@
+{
+    "user": 
+      {
+        "id": 1,
+        "name": "Lebron James",
+        "age": 40,
+        "race": "Monkey",
+        "gender": "Male"
+      }
+  }
