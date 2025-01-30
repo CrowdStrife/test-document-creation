@@ -1,4 +1,9 @@
 #root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +44,10 @@
 
 .read-the-docs {
   color: #888;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
 }
